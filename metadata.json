@@ -1,0 +1,7 @@
+{
+  "name": "AIKYA Dance Auditions 2026",
+  "description": "Official audition portal for AIKYA college dance band. Move as One. Audition form, categories, and schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
